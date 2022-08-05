@@ -1,0 +1,85 @@
+body {
+    background-color:aliceblue
+}
+
+.logo {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;  
+  }
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.line{
+        border-bottom-style: dotted;    
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+    color: red
+}
+
+p{
+    font-family: sans-serif;
+}
+
+.blogpages li a{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-line: none;
+}
+
+.header li {
+    display: inline;
+    padding-right: 2.22rem;
+  }
+  
+  .header li a {
+    text-decoration: none;
+    color: #4a4a4a;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
+
+  .CellWithComment{
+    position:relative;
+  }
+  
+  .CellComment{
+    display:none;
+    position:absolute; 
+    z-index:100;
+    border:1px;
+    background-color:#c2f0c2;
+    font-family: consolas;
+    padding:3px;
+    color:#04065F; 
+    top:20px; 
+    left:20px;
+    text-align: left;
+    font-size: 14px;
+  }
+  
+  .CellWithComment:hover span.CellComment{
+    display:block;
+  }
+
+  .lefthemi {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;  
+    height: 300px;
+  }
+
+  .ugimap {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;  
+    height: 300px;
+  }
