@@ -33,9 +33,12 @@ p{
     text-decoration-line: none;
 }
 
+
+
 .header li {
     display: inline;
     padding-right: 2.22rem;
+
   }
   
   .header li a {
@@ -82,4 +85,17 @@ p{
     padding: 5px;
     width: 400px;  
     height: 300px;
+  }
+
+  .head{
+    background-color: white;
+    border-radius: 4px;
+    padding: 5px;
+    
+  }
+
+  .footer {
+    background-color: white;
+    border-radius: 4px;
+    padding: 5px;
   }
