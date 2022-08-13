@@ -24,6 +24,8 @@ h2{
     color: red
 }
 
+
+
 p{
     font-family: sans-serif;
 }
@@ -99,3 +101,27 @@ p{
     border-radius: 4px;
     padding: 5px;
   }
+
+.pd1 h3 p{
+  text-align: left;
+
+}
+
+.headpd{
+  text-align: center;
+}
+
+.headpd h2{
+  text-align: center;
+}
+
+.pdtop p{
+  text-align: center;
+}
+
+
+
+.pd1 h3{
+  text-decoration: underline;
+  font-family: sans-serif;
+}
