@@ -125,3 +125,16 @@ p{
   text-decoration: underline;
   font-family: sans-serif;
 }
+
+.footer li {
+  display: inline;
+  padding-right: 2.22rem;
+
+}
+
+.footer li a {
+  text-decoration: none;
+  color: #4a4a4a;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+}
